@@ -7,7 +7,6 @@
   />
 </p>
 
-
 <h1 align="center">Hi 👋, I'm Abdul Kaium</h1>
 <h3 align="center">💻 Full-Stack Web Developer | MERN Stack Specialist</h3>
 
@@ -59,7 +58,6 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
 <p><b>Tailwind CSS:</b> <img src="https://img.shields.io/badge/TailwindCSS-80%25-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/></p>
 <p><b>Next.js:</b> <img src="https://img.shields.io/badge/Next.js-75%25-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/></p>
 
-
 ---
 
 ## 🌐 Animated Tech Stack
@@ -73,7 +71,7 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
 
 ---
 
-## 📂 Featured Projects (Responsive)
+## 📂 Featured Projects
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
@@ -103,7 +101,7 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
     </div>
   </div>
 
-  <!-- Project 3 (placeholder) -->
+  <!-- Project 3 -->
   <div style="flex: 1 1 250px; max-width: 300px; text-align: center; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
     <a href="#" target="_blank">
       <img src="https://raw.githubusercontent.com/abdulkaium775/assets/main/project-placeholder.png" width="100%" style="border-radius:12px;"/>
@@ -169,7 +167,7 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
 
 ---
 
-## 💡 Motivational Quote Section
+## 💡 Motivational Quote
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Motivational Quote"/>
 </p>
