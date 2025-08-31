@@ -11,7 +11,7 @@
 <h3 align="center">💻 Full-Stack Web Developer | MERN Stack Specialist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdulkaium775&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=abdulkaium-dev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
 ---
@@ -78,20 +78,20 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
   <!-- Project 1 -->
   <div style="flex: 1 1 250px; max-width: 300px; text-align: center; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
     <a href="https://fascinating-seahorse-1ef1af.netlify.app/" target="_blank">
-      <img src="https://raw.githubusercontent.com/abdulkaium775/assets/main/hostel-meal-service.png" width="100%" style="border-radius:12px;"/>
+      <img src="https://raw.githubusercontent.com/abdulkaium-dev/assets/main/hostel-meal-service.png" width="100%" style="border-radius:12px;"/>
     </a>
     <div style="padding: 10px;">
       <b>Hostel Meal Service App</b><br/>
       MERN-based platform for browsing, requesting, and reviewing hostel meals.<br/>
       <a href="https://fascinating-seahorse-1ef1af.netlify.app/" target="_blank">🔗 Live</a> | 
-      <a href="https://github.com/abdulkaium775" target="_blank">💻 Code</a>
+      <a href="https://github.com/abdulkaium-dev" target="_blank">💻 Code</a>
     </div>
   </div>
 
   <!-- Project 2 -->
   <div style="flex: 1 1 250px; max-width: 300px; text-align: center; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
     <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/abdulkaium775/assets/main/portfolio.png" width="100%" style="border-radius:12px;"/>
+      <img src="https://raw.githubusercontent.com/abdulkaium-dev/assets/main/portfolio.png" width="100%" style="border-radius:12px;"/>
     </a>
     <div style="padding: 10px;">
       <b>Portfolio Website</b><br/>
@@ -104,7 +104,7 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
   <!-- Project 3 -->
   <div style="flex: 1 1 250px; max-width: 300px; text-align: center; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
     <a href="#" target="_blank">
-      <img src="https://raw.githubusercontent.com/abdulkaium775/assets/main/project-placeholder.png" width="100%" style="border-radius:12px;"/>
+      <img src="https://raw.githubusercontent.com/abdulkaium-dev/assets/main/project-placeholder.png" width="100%" style="border-radius:12px;"/>
     </a>
     <div style="padding: 10px;">
       <b>Project Name</b><br/>
@@ -116,17 +116,17 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
 
 </div>
 
-[🔗 View all projects](https://github.com/abdulkaium775)
+[🔗 View all projects](https://github.com/abdulkaium-dev)
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulkaium775&show_icons=true&theme=react&hide_border=true" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkaium775&layout=compact&theme=react&hide_border=true" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulkaium-dev&show_icons=true&theme=react&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkaium-dev&layout=compact&theme=react&hide_border=true" width="300"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaium775&theme=react&hide_border=true" width="450"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaium-dev&theme=react&hide_border=true" width="450"/>
 </p>
 
 ---
@@ -136,7 +136,7 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
   <a href="https://linkedin.com/in/abdulkaium-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40"/>
   </a>
-  <a href="https://github.com/abdulkaium775" target="_blank">
+  <a href="https://github.com/abdulkaium-dev" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
   </a>
   <a href="https://twitter.com/abdulkaium775" target="_blank">
@@ -160,7 +160,7 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
 
 ## 💌 Visitor Greeting Card
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulkaium775.abdulkaium775&style=for-the-badge&text=Welcome!👋" alt="Visitor Badge"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=abdulkaium-dev.abdulkaium-dev&style=for-the-badge&text=Welcome!👋" alt="Visitor Badge"/>
   <br>
   <i>👋 Hello! Hope your day is productive 🚀✨</i>
 </p>
