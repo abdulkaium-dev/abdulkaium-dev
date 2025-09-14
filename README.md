@@ -3,7 +3,7 @@
     src="https://i.postimg.cc/3RFn3qN0/abdulkaium-banner.png" 
     alt="Profile Banner" 
     width="100%" 
-    style="height: auto; border-radius: 12px;" 
+    style="height: full; border-radius: 12px;" 
   />
 </p>
 
