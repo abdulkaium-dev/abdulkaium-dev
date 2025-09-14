@@ -17,9 +17,8 @@
 ---
 
 ## 🚀 About Me
-I’m a **Full-Stack Web Developer** specializing in the **MERN stack**.  
-Passionate about building **scalable, user-friendly applications**, I love turning ideas into real-world solutions.  
-I’m exploring **Next.js** and modern web technologies to deliver **optimized, high-performance experiences**.  
+I’m a **Full-Stack Web Developer** passionate about building **clean, scalable, and user-friendly web applications**.  
+I specialize in the **MERN stack** and enjoy exploring **modern web technologies** to solve real-world problems.  
 
 ---
 
@@ -83,8 +82,7 @@ I’m exploring **Next.js** and modern web technologies to deliver **optimized, 
     </a>
     <div style="padding: 10px;">
       <b>Hostel Management System (HostelApp)</b><br/>
-      Full-featured app with student & admin dashboards, meal management, reviews, meal requests, and Stripe payments.<br/>
-      <i>Tech:</i> React, Firebase Auth, MongoDB<br/>
+      Full-featured app with student & admin dashboards, meal management, reviews, meal requests, and Stripe payments. Built with React, Firebase Auth, and MongoDB.<br/>
       <a href="https://fascinating-seahorse-1ef1af.netlify.app/" target="_blank">🔗 Live</a> | 
       <a href="https://github.com/abdulkaium-dev/Hostel-Management-Client-Side" target="_blank">💻 Code</a>
     </div>
@@ -97,8 +95,7 @@ I’m exploring **Next.js** and modern web technologies to deliver **optimized, 
     </a>
     <div style="padding: 10px;">
       <b>Product Recommendation System (RecoSys)</b><br/>
-      Full-stack system for posting product queries, adding recommendations, and user interaction.<br/>
-      <i>Tech:</i> React, Node.js, Express, MongoDB, Firebase, JWT Auth<br/>
+      Full-stack system for posting product queries, adding recommendations, and user interaction. Built with React, Node.js, Express, MongoDB, Firebase, and JWT auth.<br/>
       <a href="https://zesty-strudel-2c6569.netlify.app/" target="_blank">🔗 Live</a> | 
       <a href="https://github.com/abdulkaium-dev/Product-Recommendation-Client-Side" target="_blank">💻 Code</a>
     </div>
@@ -111,8 +108,7 @@ I’m exploring **Next.js** and modern web technologies to deliver **optimized, 
     </a>
     <div style="padding: 10px;">
       <b>Freelance Task Marketplace (TaskHub)</b><br/>
-      Platform for posting tasks, browsing, bidding, and connecting with freelancers.<br/>
-      <i>Tech:</i> React, Node.js, Express, MongoDB, Firebase Auth<br/>
+      Platform for posting tasks, browsing, bidding, and connecting with freelancers. Built with React, Node.js, Express, MongoDB, and Firebase auth.<br/>
       <a href="https://cosmic-medovik-450350.netlify.app/" target="_blank">🔗 Live</a> | 
       <a href="https://github.com/abdulkaium-dev/Freelancer-marketplace-client-side" target="_blank">💻 Code</a>
     </div>
@@ -126,9 +122,11 @@ I’m exploring **Next.js** and modern web technologies to deliver **optimized, 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulkaium-dev&show_icons=true&theme=react&hide_border=true" width="45%" style="margin-right:10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkaium-dev&layout=compact&theme=react&hide_border=true" width="25%" style="margin-right:10px;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaium-dev&theme=react&hide_border=true" width="25%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdulkaium-dev&show_icons=true&theme=react&hide_border=true" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulkaium-dev&layout=compact&theme=react&hide_border=true" width="300"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulkaium-dev&theme=react&hide_border=true" width="450"/>
 </p>
 
 ---
@@ -147,6 +145,7 @@ I’m exploring **Next.js** and modern web technologies to deliver **optimized, 
 </p>
 
 📧 **Email:** [abdulkaium.80775@gmail.com](mailto:abdulkaium.80775@gmail.com)  
+📱 **Phone:** [01601080775](tel:01601080775)  
 
 ---
 
