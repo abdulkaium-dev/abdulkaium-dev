@@ -3,7 +3,8 @@
     src="https://i.postimg.cc/3RFn3qN0/abdulkaium-banner.png" 
     alt="Profile Banner" 
     width="100%" 
-    style="height: 1000px; object-fit: cover; border-radius: 12px;" 
+    height="300px"
+    style="object-fit: cover; border-radius: 0px;" 
   />
 </p>
 
@@ -78,7 +79,7 @@ I specialize in the **MERN stack** and enjoy exploring **modern web technologies
   <!-- Project 1 -->
   <div style="flex: 1 1 300px; max-width: 350px; text-align: center; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: flex; flex-direction: column; justify-content: flex-start;">
     <a href="https://fascinating-seahorse-1ef1af.netlify.app/" target="_blank">
-      <img src="https://i.postimg.cc/02wKmwGc/12hostelmanage.png" width="100%" style="height: 220px; object-fit: cover;" alt="Hostel Management System"/>
+      <img src="https://i.postimg.cc/02wKmwGc/12hostelmanage.png" width="100%" height="250px" style="object-fit: cover;" alt="Hostel Management System"/>
     </a>
     <div style="padding: 10px;">
       <b>Hostel Management System (HostelApp)</b><br/>
@@ -91,7 +92,7 @@ I specialize in the **MERN stack** and enjoy exploring **modern web technologies
   <!-- Project 2 -->
   <div style="flex: 1 1 300px; max-width: 350px; text-align: center; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: flex; flex-direction: column; justify-content: flex-start;">
     <a href="https://zesty-strudel-2c6569.netlify.app/" target="_blank">
-      <img src="https://i.postimg.cc/g0NH5ZT3/11productreco.png" width="100%" style="height: 220px; object-fit: cover;" alt="Product Recommendation System"/>
+      <img src="https://i.postimg.cc/g0NH5ZT3/11productreco.png" width="100%" height="250px" style="object-fit: cover;" alt="Product Recommendation System"/>
     </a>
     <div style="padding: 10px;">
       <b>Product Recommendation System (RecoSys)</b><br/>
@@ -104,7 +105,7 @@ I specialize in the **MERN stack** and enjoy exploring **modern web technologies
   <!-- Project 3 -->
   <div style="flex: 1 1 300px; max-width: 350px; text-align: center; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 10px rgba(0,0,0,0.1); display: flex; flex-direction: column; justify-content: flex-start;">
     <a href="https://cosmic-medovik-450350.netlify.app/" target="_blank">
-      <img src="https://i.postimg.cc/g2wwd6jv/10freelancer.png" width="100%" style="height: 220px; object-fit: cover;" alt="Freelance Task Marketplace"/>
+      <img src="https://i.postimg.cc/g2wwd6jv/10freelancer.png" width="100%" height="250px" style="object-fit: cover;" alt="Freelance Task Marketplace"/>
     </a>
     <div style="padding: 10px;">
       <b>Freelance Task Marketplace (TaskHub)</b><br/>
