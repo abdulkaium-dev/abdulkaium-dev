@@ -1,10 +1,5 @@
 <p align="center">
-  <img 
-    src="https://i.postimg.cc/3RFn3qN0/abdulkaium-banner.png" 
-    alt="Profile Banner" 
-    width="1000" 
-    style="max-width: 100%; height: auto; border-radius: 12px;" 
-  />
+  <img src="https://i.postimg.cc/3RFn3qN0/abdulkaium-banner.png" alt="Profile Banner" width="100%" style="border-radius:12px;" />
 </p>
 
 <h1 align="center">Hi 👋, I'm MD Abdul Kaium</h1>
@@ -49,36 +44,15 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
 
 ---
 
-## 🛠 Skills Progress
-<p><b>React:</b></p>
-<div style="background:#eee;border-radius:10px;width:300px;height:15px;">
-  <div style="height:100%;width:95%;background:#61dafb;border-radius:10px;transition:width 1.5s;"></div>
-</div>
-
-<p><b>Node.js:</b></p>
-<div style="background:#eee;border-radius:10px;width:300px;height:15px;">
-  <div style="height:100%;width:90%;background:#339933;border-radius:10px;transition:width 1.5s;"></div>
-</div>
-
-<p><b>Express.js:</b></p>
-<div style="background:#eee;border-radius:10px;width:300px;height:15px;">
-  <div style="height:100%;width:85%;background:#6E6E6E;border-radius:10px;transition:width 1.5s;"></div>
-</div>
-
-<p><b>MongoDB:</b></p>
-<div style="background:#eee;border-radius:10px;width:300px;height:15px;">
-  <div style="height:100%;width:90%;background:#47A248;border-radius:10px;transition:width 1.5s;"></div>
-</div>
-
-<p><b>Tailwind CSS:</b></p>
-<div style="background:#eee;border-radius:10px;width:300px;height:15px;">
-  <div style="height:100%;width:80%;background:#38B2AC;border-radius:10px;transition:width 1.5s;"></div>
-</div>
-
-<p><b>Next.js:</b></p>
-<div style="background:#eee;border-radius:10px;width:300px;height:15px;">
-  <div style="height:100%;width:75%;background:#000000;border-radius:10px;transition:width 1.5s;"></div>
-</div>
+## 🛠 Skills Progress (Static)
+| Skill       | Progress |
+|------------|---------|
+| React       | ▰▰▰▰▰▰▰▰▰▱ 95% |
+| Node.js     | ▰▰▰▰▰▰▰▰▱▱ 90% |
+| Express.js  | ▰▰▰▰▰▰▰▱▱▱ 85% |
+| MongoDB     | ▰▰▰▰▰▰▰▰▱▱ 90% |
+| Tailwind CSS| ▰▰▰▰▰▰▰▱▱▱ 80% |
+| Next.js     | ▰▰▰▰▰▰▱▱▱▱ 75% |
 
 ---
 
@@ -101,7 +75,7 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
 
 <!-- Project 2 -->
 <div style="flex:1 1 250px; max-width:300px; text-align:center; border-radius:12px; overflow:hidden; box-shadow:0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
-  <a href="#" target="_blank" style="text-decoration:none;color:inherit;">
+  <a href="https://zesty-strudel-2c6569.netlify.app/" target="_blank" style="text-decoration:none;color:inherit;">
     <img src="https://i.postimg.cc/g0NH5ZT3/11productreco.png" width="100%" style="border-radius:12px;"/>
     <div style="padding:10px;">
       <b>Product Recommendation System (RecoSys)</b><br/>
@@ -114,7 +88,7 @@ I specialize in the **MERN stack** and love exploring **modern web technologies*
 
 <!-- Project 3 -->
 <div style="flex:1 1 250px; max-width:300px; text-align:center; border-radius:12px; overflow:hidden; box-shadow:0 4px 10px rgba(0,0,0,0.1); transition: transform 0.3s;">
-  <a href="#" target="_blank" style="text-decoration:none;color:inherit;">
+  <a href="https://cosmic-medovik-450350.netlify.app/" target="_blank" style="text-decoration:none;color:inherit;">
     <img src="https://i.postimg.cc/g2wwd6jv/10freelancer.png" width="100%" style="border-radius:12px;"/>
     <div style="padding:10px;">
       <b>Freelance Task Marketplace (TaskHub)</b><br/>
